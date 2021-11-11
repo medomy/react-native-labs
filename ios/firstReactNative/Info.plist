@@ -75,5 +75,6 @@
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
 	</array>
+	<key> NSAllowsArbitraryLoads</key>
 </dict>
 </plist>

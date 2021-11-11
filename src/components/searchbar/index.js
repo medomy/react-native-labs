@@ -13,7 +13,7 @@ export default function SearchBar(value , onChange,onPress) {
                 <TextInput style={styles.textInput} placeholder="Enter  Movie name ..." placeholderTextColor={COLORS.sun} value={value} onChangeText={onChange} />
                 <Pressable onPress={onPress}>
                     <View style={styles.iconContainer}>
-                     <Icon name="magnifying-glass" size={30} color={COLORS.sun}/>  
+                    <Icon name="magnifying-glass" size={30} color={COLORS.sun} />
                     </View>
                 </Pressable>
 
